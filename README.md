@@ -22,7 +22,7 @@
 ### App Walkthough GIF
 
 
-<img src="![wwnew](https://user-images.githubusercontent.com/35587848/107079508-91ee7f00-67b5-11eb-9e4d-14e07be71e22.gif)" width=250><br>
+<img src="![wwnew]https://user-images.githubusercontent.com/35587848/107079508-91ee7f00-67b5-11eb-9e4d-14e07be71e22.gif" width=250><br>
 
 ### Notes
 
